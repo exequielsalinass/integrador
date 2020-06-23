@@ -1,0 +1,29 @@
+
+*{
+    font-family: 'Open Sans', sans-serif !important;    
+    color: rgb(12, 7, 7);
+}
+
+#tblLista tbody{
+    background-color: rgba(165, 162, 162, 0.753);
+}
+
+div a{
+    color: black;
+}
+
+#tblLista2 tbody{
+    background-color: rgba(194, 241, 22, 0.753);
+}
+
+#tblLista3 thead{
+    background-color: rgba(194, 241, 22, 0.753);
+}
+
+body#fondoPrincipal{
+    background-image: url(img/fondo.jpg);         
+}
+
+
+
+
